@@ -3,7 +3,7 @@
 
 **DIY und Open Source mobile Komposttoiletten**
 
-Anleitung zum Bau und Betrieb [als gitbook lesen](https://k-t-m-k.gitbooks.io/diy-kompostklo/content/)
+Anleitung zum Bau und Betrieb [als gitbook lesen](https://k-t-m-k.gitbooks.io/diy-kompostklo/content/).
 
 <br>
 
