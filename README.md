@@ -17,7 +17,7 @@ Die aktuelle Version kann bei [gitbook](https://www.gitbook.com/book/k-t-m-k/diy
 
 ### Mitgestalten
 
-Bitte ergänzt und korrigiert die Unterlagen auf github ([kurze Einleitung](https://guides.github.com/activities/hello-world/)) oder erstellt eine eigene Version ([Forking Projects](https://guides.github.com/activities/forking/)). Wenn ihr an die Anleitung angelehnte Komposttoiletten baut oder andere Ideen habt schickt uns Bilder und Verbesserungen. Unter entsprechender Lizenz ([Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) oder [CC-BY](https://creativecommons.org/licenses/by/4.0/)) nehmen wir sie gerne in der Anleitung auf.
+Bitte ergänzt und korrigiert die Unterlagen auf [github](https://github.com/k-t-m-k/DIY-Kompostklo) ([kurze Einleitung](https://guides.github.com/activities/hello-world/)) oder erstellt eine eigene Version ([Forking Projects](https://guides.github.com/activities/forking/)). Wenn ihr an die Anleitung angelehnte Komposttoiletten baut oder andere Ideen habt schickt uns Bilder und Verbesserungen. Unter entsprechender Lizenz ([Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) oder [CC-BY](https://creativecommons.org/licenses/by/4.0/)) nehmen wir sie gerne in der Anleitung auf.
 
 ### Veranstaltungen
 
