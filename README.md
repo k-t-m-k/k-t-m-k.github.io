@@ -10,8 +10,8 @@ Die aktuelle Version kann bei [gitbook](https://www.gitbook.com/book/k-t-m-k/diy
 
 ### Mitgestalten
 
-Bitte ergänzt und korrigiert die Unterlagen auf github ([kurze Einleitung](https://guides.github.com/activities/hello-world/)) oder erstellt eine eigene Version ([Forking Projects](https://guides.github.com/activities/forking/)). Wenn ihr an die Anleitung angelehnte Komposttoiletten baut oder andere Ideen habt schickt uns Bilder und Verbesserungen. Wenn ihr diese unter entsprechender Lizenz ([Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) oder [CC-BY](https://creativecommons.org/licenses/by/4.0/)) zur Verfügung stellt, nehmen wir sie gerne in der Anleitung auf.
+Bitte ergänzt und korrigiert die Unterlagen auf github ([kurze Einleitung](https://guides.github.com/activities/hello-world/)) oder erstellt eine eigene Version ([Forking Projects](https://guides.github.com/activities/forking/)). Wenn ihr an die Anleitung angelehnte Komposttoiletten baut oder andere Ideen habt schickt uns Bilder und Verbesserungen. Unter entsprechender Lizenz ([Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) oder [CC-BY](https://creativecommons.org/licenses/by/4.0/)) nehmen wir sie gerne in der Anleitung auf.
 
 ### Veranstaltungen
 
-schreibt uns eine Mail an trockentoiletten-manufaktur-kunst(ätz)lists.riseup.net
+Wir geben euch gerne Tipps beim Kompostklobau und stellen euch unser Klo-Material zur Verfügung. Wir betreiben kostenlos Komposttoiletten auf Veranstaltungen, wenn die Reste eurer Gäste auf eurem Gelände wieder in den Wertstoffkreislauf gelangen. Schreibt uns! trockentoiletten-manufaktur-kunst(ätz)lists.riseup.net
