@@ -6,7 +6,7 @@ Anleitung zum Bau und Betrieb [bei gitbook lesen](https://k-t-m-k.gitbooks.io/di
 
 ### Downloads
 
-Die aktuelle Version kann bei [gitbook](https://www.gitbook.com/book/k-t-m-k/diy-kompostklo/details) als pdf, epub und mobi heruntergeladen werden. Ältere Versionen, ergänzende Dokumente und alle Bilder sind im [github Repository KTMK/DIY-Konpostklo](https://github.com/k-t-m-k/DIY-Kompostklo) verfügbar.
+Die aktuelle Version kann bei [gitbook](https://www.gitbook.com/book/k-t-m-k/diy-kompostklo/details) als pdf, epub und mobi heruntergeladen werden. Ältere Versionen, ergänzende Dokumente und alle Bilder sind im [github Repository KTMK/DIY-Kompostklo](https://github.com/k-t-m-k/DIY-Kompostklo) verfügbar.
 
 ### Mitgestalten
 
