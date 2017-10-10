@@ -1,6 +1,7 @@
 ## Kollektiv für Trockentoiletten-Manufaktur-Kunst Lichtenberg
 
-**DIY und Open Source mobile Komposttoiletten**
+DIY und Open Source mobile Komposttoiletten
+======
 <br><br>
 Anleitung zum Bau und Betrieb **[bei gitbook lesen](https://k-t-m-k.gitbooks.io/diy-kompostklo/content/)**.
 <br><br>
