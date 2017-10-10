@@ -11,7 +11,7 @@ Alle Unterlagen sind unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4
 
 ---
 
-### Downloads
+### Download
 
 Die aktuelle Version kann bei [gitbook](https://www.gitbook.com/book/k-t-m-k/diy-kompostklo/details) als pdf, epub und mobi heruntergeladen werden. Ältere Versionen, ergänzende Dokumente und alle Bilder sind im [github Repository KTMK/DIY-Kompostklo](https://github.com/k-t-m-k/DIY-Kompostklo) verfügbar.
 
