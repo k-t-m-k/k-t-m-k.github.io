@@ -19,4 +19,7 @@ Bitte ergänzt und korrigiert die Unterlagen auf github ([kurze Einleitung](http
 
 ### Veranstaltungen
 
-Wir geben euch gerne Tipps beim Kompostklobau und stellen euch unser Klo-Material zur Verfügung. Wir betreiben kostenlos Komposttoiletten auf Veranstaltungen, wenn die Reste eurer Gäste auf eurem Gelände wieder in den Wertstoffkreislauf gelangen. Schreibt uns! trockentoiletten-manufaktur-kunst(ätz)lists.riseup.net
+Wir geben euch gerne Tipps beim Kompostklobau und stellen euch unser Klo-Material zur Verfügung. Wir betreiben kostenlos Komposttoiletten auf Veranstaltungen, wenn die Reste eurer Gäste auf eurem Gelände wieder in den Wertstoffkreislauf gelangen.
+
+### Kontakt
+Schreibt uns! trockentoiletten-manufaktur-kunst(ätz)lists.riseup.net
