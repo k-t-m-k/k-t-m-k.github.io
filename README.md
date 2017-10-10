@@ -1,3 +1,16 @@
+## Kollektiv für Trockentoiletten-Manufaktur-Kunst Lichtenberg
+
+**DIY und Open Source mobile Komposttoiletten**
+Anleitung zum Bau und Betrieb [bei gitbook lesen](https://k-t-m-k.gitbooks.io/diy-kompostklo/content/). Alle Unterlagen sind unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) lizensiert und können unter Namensnennung frei verwendet werden.
+
+### Downloads
+
+Die aktuelle Version kann bei [gitbook](https://www.gitbook.com/book/k-t-m-k/diy-kompostklo/details) als pdf, epub und mobi heruntergeladen werden. Ältere Versionen, ergänzende Dokumente und alle Bilder sind im [github Repository KTMK/DIY-Konpostklo](https://github.com/k-t-m-k/DIY-Kompostklo) verfügbar.
+
+### Mitarbeiten
+
+### Veranstaltungen
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/k-t-m-k/k-t-m-k.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
