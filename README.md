@@ -2,7 +2,9 @@
 
 **DIY und Open Source mobile Komposttoiletten**
 <br><br>
-Anleitung zum Bau und Betrieb [bei gitbook lesen](https://k-t-m-k.gitbooks.io/diy-kompostklo/content/). Alle Unterlagen sind unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) lizensiert und können unter Namensnennung frei verwendet werden.
+Anleitung zum Bau und Betrieb **[bei gitbook lesen](https://k-t-m-k.gitbooks.io/diy-kompostklo/content/)**.
+<br><br>
+Alle Unterlagen sind unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) lizensiert und können unter Namensnennung frei verwendet werden.
 
 ### Downloads
 
