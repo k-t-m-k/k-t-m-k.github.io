@@ -21,7 +21,7 @@ Wir wollen kollaborativ Wissen und Anwendung von Komposttoiletten ausbauen. Bitt
 
 ### Veranstaltungen
 
-Wir geben euch gerne Tipps beim Kompostklobau und stellen euch unser Klo-Material zur Verfügung. Wir betreiben kostenlos Komposttoiletten auf Veranstaltungen, wenn die Reste eurer Gäste auf eurem Gelände wieder in den Wertstoffkreislauf gelangen.
+Wir geben euch gerne Tipps beim Kompostklobau und stellen euch unser Klo-Material zur Verfügung. Wir betreiben unentgeltlich Komposttoiletten auf Veranstaltungen, wenn die Reste eurer Gäste auf eurem Gelände wieder in den Wertstoffkreislauf gelangen.
 
 ### Kontakt
 Schreibt uns! trockentoiletten-manufaktur-kunst(ätz)lists.riseup.net
